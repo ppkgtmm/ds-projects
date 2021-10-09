@@ -1,4 +1,4 @@
-Sign Language Image Classification
+Sign Language Classification from Image
 
 This project aims to build multi-class classification model to predict american sign language letters from black and white images.
 <br/><br/>
@@ -13,6 +13,9 @@ Set up
 
 
 Findings
-- Standardization gives equal chance to all features (image pixels) to contribute in target prediction
-- Batch normalization layer standardize intermediate outputs of neurons
+- Batch normalization layer standardize intermediate outputs of neurons across the batch to give them equal importance and make the neural network converge faster
 - Dropout layer can help model be less overfit to training data and increases model performance on unseen data
+
+To Dos
+- Make colored images able to be classified by developing a preprocessing pipeline that resize image to be compatible with model and turn the image into grayscale image
+- Try using regularization with dropout to reduce missclassification on unseen data set
