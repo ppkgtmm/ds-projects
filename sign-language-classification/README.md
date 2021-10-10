@@ -12,4 +12,3 @@ Set up
 
 To Dos
 - Make colored images able to be classified by developing a preprocessing pipeline that resize image to be compatible with model and turn the image into grayscale image
-- Try using dropout and/or regularization to reduce missclassification on unseen data set
