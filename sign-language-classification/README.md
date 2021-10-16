@@ -1,6 +1,8 @@
 Sign Language Classification from Image
 
 This project aims to build multi-class classification model to predict american sign language from black and white images. The data set used for training and testing is [Sign Language MNIST](https://www.kaggle.com/datamunge/sign-language-mnist)
+
+There is an image preprocessing function implemented which enable feeding colored image to the model. The preprocessing function resizes and turns the image into grayscale image. However, due to resizing non-square image there could be some distortion caused to the image.
 <br/><br/>
 
 Set up 
@@ -11,6 +13,4 @@ Set up
 <br/><br/>
 
 To Dos
-
-- [x] Make colored images able to be classified by developing a preprocessing pipeline that resize image to be compatible with model and turn the image into grayscale image
-- [x] Use regularization
+- Implement a real-time application for detecting sign language
