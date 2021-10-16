@@ -11,4 +11,6 @@ Set up
 <br/><br/>
 
 To Dos
-- Make colored images able to be classified by developing a preprocessing pipeline that resize image to be compatible with model and turn the image into grayscale image
+
+- [x] Make colored images able to be classified by developing a preprocessing pipeline that resize image to be compatible with model and turn the image into grayscale image
+- [x] Use regularization
