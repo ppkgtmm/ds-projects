@@ -2,7 +2,7 @@
 
 ### Hello and welcome to the repository of my data science journey 👋🏻
 
-Having an interest in data science and machine learning with little prior knowledge, I find some time to do data related side projects of which Jupyter Notebooks 
+Having an interest in data science and machine learning with some prior knowledge, I find some time to do data related side projects of which Jupyter Notebooks 
 are stored in this repository.
 
 I also have taken some online courses related to data science and machine learning but being able to apply the knowledge learnt i.e. doing projects, makes me more confident that what I learnt is useful to someone.
