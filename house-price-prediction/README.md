@@ -2,8 +2,7 @@ House Price Estimation from House Attributes
 
 Given house characteristics, the goal of this project is to predict house price using regression machine learning algorithms and optimize the resulting models. 
 
-Redundant features are removed using correlation and feature engineering as well as target encoding are conducted to create new features and help add more 
-information about target with less chance of overfitting as possible.
+Missing values are handled based on data description, redundant features are removed using correlation and feature engineering as well as target encoding are conducted to create new features and help add more information about target with less chance of overfitting as possible.
 
 To maximize the models' performance on unseen data, hyperparameter tuning is done with k-fold cross validation to come up with best hyper parameters combination for the problem.
 The combination of top 2 best models, each given some weight, produced greatest performance on test set.
