@@ -8,8 +8,10 @@ There is an image preprocessing function implemented which enable feeding colore
 Set up 
 - Google Colab
 1. Create a `Kaggle` account if you don't have
-2. Generate `Kaggle API token` from `Account` tab in your `Kaggle Profile` page
-3. Upload `kaggle.json` file automatically downloaded from `2.` to `root directory` of your `Google Drive`
+2. Generate `Kaggle API token`
+3. Upload `kaggle.json` file downloaded from `2.` to `root directory` of your `Google Drive`
+4. Download `sign-language-classification.ipynb` jupyter notebook file and open it in `Google Colab`
+5. Run the notebook
 <br/><br/>
 
 To Dos
