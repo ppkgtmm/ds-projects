@@ -10,7 +10,7 @@ To maximize the models' performance on unseen data, hyperparameter tuning is don
 The combination of top 2 best models, each given some weight, produced greatest performance on test set.
 
 Predictions were submitted to 2 Kaggle competitions namely [Housing Prices Competition for Kaggle Learn Users](https://www.kaggle.com/c/home-data-for-ml-course), 
-[House Prices - Advanced Regression Techniques](https://www.kaggle.com/c/house-prices-advanced-regression-techniques) scoring top 1% and top 9% on leaderboard, respectively.
+[House Prices - Advanced Regression Techniques](https://www.kaggle.com/c/house-prices-advanced-regression-techniques) scoring top 1% and top 9% on leaderboard, respectively as of 1 st November 2021.
 
 Set up
 * Kaggle
