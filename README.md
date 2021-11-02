@@ -10,5 +10,5 @@ I also have taken some online courses related to data science and machine learni
 I am planning to do project related to both machine learning and deep learning :robot:. Some examples of my projects are
 - American Sign Language recognition ✊🏻 <br/>
   An image classification task using Convolutional Neural Network and data augmentation technique which gained more than 99 % accuracy on test set. This project could be a part in improving ability to interpret sign langauge of people unfamiliar to it.
-- House price prediction 🏡 <br/>
-  Built house price estimation models with manually selected non-colinear features. Feature engineering and proper missing value imputation are conducted to increase performance of models. Predictions from this project were submitted to a Kaggle competition giving top 9% position on Kaggle leaderboard
+- House price prediction 🏠 <br/>
+  Built house price estimation models with manually selected non-colinear features. Feature engineering and proper missing value imputation are conducted to increase performance of models.
