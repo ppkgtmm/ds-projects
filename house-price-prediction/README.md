@@ -9,7 +9,7 @@ Missing values are handled based on data description, some of colinear features 
 To maximize the models' performance on unseen data, hyperparameter tuning is done with k-fold cross validation to come up with best hyper parameters combination for the problem.
 The combination of top 2 best models, each given some weight, produced greatest performance on test set.
 
-Predictions were submitted to 2 Kaggle competitions namely [Housing Prices Competition for Kaggle Learn Users](https://www.kaggle.com/c/home-data-for-ml-course), 
+Predictions were submitted to 2 Kaggle competitions namely [Housing Prices Competition for Kaggle Learn Users](https://www.kaggle.com/c/home-data-for-ml-course) and
 [House Prices - Advanced Regression Techniques](https://www.kaggle.com/c/house-prices-advanced-regression-techniques) scoring top 1% and top 9% on leaderboard, respectively as of 1 st November 2021.
 
 Set up
