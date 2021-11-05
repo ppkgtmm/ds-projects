@@ -11,4 +11,4 @@ I am planning to do project related to both machine learning and deep learning :
 - American Sign Language recognition ✊🏻 <br/>
   An image classification task using Convolutional Neural Network and data augmentation technique which gained more than 99 % accuracy on test set. This project could be a part in improving ability to interpret sign langauge of people unfamiliar to it.
 - House price prediction 🏠 <br/>
-  Built house price estimation models with manually selected non-colinear features. Feature engineering and proper missing value imputation are conducted to increase performance of models.
+  House price estimation project in which feature engineering and proper missing value imputation are conducted to increase model performance. The final model has resulted in RMSLE of ~0.12 on test set. Models from this project can guide home owners towards suitable house price according to house attributes.
