@@ -1,8 +1,6 @@
 House Price Estimation from House Attributes
 
-Given house characteristics, the goal of this project is to predict house price using regression machine learning algorithms and optimize the resulting models. 
-
-A [visualization](https://public.tableau.com/app/profile/pinky.gautam/viz/mwb/Dashboard1) on Tableau Public is created to better understand data used in this project
+Given house characteristics, the goal of this project is to predict house price using regression machine learning algorithms and optimize the resulting models.
 
 Missing values are handled based on data description, some of colinear features are removed and feature engineering as well as target encoding are conducted to create new features and help add more information about target by taking risk of overfitting into consideration.
 
