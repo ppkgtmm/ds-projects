@@ -1,14 +1,14 @@
 # Pinky's Data Science Projects :seedling:
 
-### Hello and welcome to the repository of my data science journey 👋🏻
-
-Having an interest in data science and machine learning with some prior knowledge, I find some time to do data related side projects of which Jupyter Notebooks 
+Having an interest in data science and machine learning with some prior knowledge, I spend some time to do data related side projects of which Jupyter Notebooks 
 are stored in this repository.
 
-I also have taken some online courses related to data science and machine learning but being able to apply the knowledge learnt i.e. doing projects, makes me more confident that what I learnt is useful to someone.
+Let me walk you through the repo structure
 
-I am planning to do project related to both machine learning and deep learning :robot:. Some examples of my projects are
-- American Sign Language recognition ✊🏻 <br/>
-  An image classification task using Convolutional Neural Network and data augmentation technique which gained more than 99 % accuracy on test set. This project could be a part in improving ability to interpret sign langauge of people unfamiliar to it.
-- House price prediction 🏠 <br/>
-  House price estimation project in which feature engineering and proper missing value imputation are conducted to increase model performance. Models from this project can guide home owners towards suitable house price according to house attributes.
+* deep-learning - is used to keep deep learning related projects
+  * MNIST sign language classification - applied CNN to do image classification using F1 score as model selection metric
+* machine-learning - mostly comprised of machine learning work
+  * house price estimation - emsembled regression models to approximate price of houses
+* others - this directory contains projects that belongs to data analysis and visualization
+  * youtube trending video data analysis - cleaned, visualized and analysed 100k+ records of data
+  * thailand covid-19 dashboard - set up to get daily updates from Thailand's Open Government Data API and visualized data
