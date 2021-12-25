@@ -7,6 +7,7 @@ Let me walk you through the repo structure
 
 * deep-learning - is used to keep deep learning related projects
   * MNIST sign language classification - applied CNN to do image classification using F1 score as model selection metric
+  * sentiment analysis - implemented text data cleaning function and constructed LSTM based sentiment detector
 * machine-learning - mostly comprised of machine learning work
   * house price estimation - imputed data and emsembled regression models to approximate price of houses
   * customer segmentation - utilized clustering methods to group wholesale customers and visualized the results
