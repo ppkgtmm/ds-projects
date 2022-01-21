@@ -5,9 +5,9 @@ are stored in this repository.
 
 Let me walk you through the repo structure
 
-* deep-learning - is used to store deep learning related projects
+* deep-learning - used to store deep learning related projects
   * MNIST sign language classification - applied CNN to do image classification using F1 score as model selection metric
-  * sentiment analysis - implemented text data cleaning function and constructed LSTM based sentiment detector
+  * sentiment analysis - implemented text data cleaning function and constructed sentiment detectors using Naive Bayes and LSTM
   * variational autoencoder - built vae neural networks for image generation using customized loss functions
 * machine-learning - mostly comprised of machine learning work
   * house price estimation - imputed data and emsembled regression models to approximate price of houses
