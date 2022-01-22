@@ -11,7 +11,7 @@ Let me walk you through the repo structure
   * variational autoencoder - built vae neural networks for image generation using customized loss functions
 * machine-learning - mostly comprised of machine learning work
   * house price estimation - imputed data and emsembled regression models to approximate price of houses
-  * customer segmentation - utilized clustering methods to group wholesale customers and visualized the results
+  * customer clustering - utilized clustering methods to group wholesale customers and visualized the results
   * churn prediction - performed analysis of data and applied classification algorithms to categorize customers
   * e-commerce customer spending regression - carried out regression analysis of customer annual spending
 * others - this directory contains projects that belongs to data analysis and visualization categories
